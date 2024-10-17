@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-17T18:08:18.713Z",
+  "created_by": "absempere",
+  "title": "Suspense Film",
+  "slug": "suspense-film",
+  "updated_at": "2024-10-17T18:08:18.713Z",
+  "updated_by": "absempere",
+  "parent": "1539bd87-6dbc-45ee-a2cf-eac9f2c73eca",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "415c92e1-1286-4d91-9ebc-9128342231b2"
+  }
+}

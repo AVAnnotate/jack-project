@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "6d7e492d-18db-4b77-91c4-18edd21d4d09": {
+      "label": "Film ",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=J-ZDESCVt9I&ab_channel=JamesBradfordHuston",
+      "duration": 1
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Visual",
+  "label": "Suspense Film",
+  "created_at": "2024-10-17T18:08:18.519Z",
+  "created_by": "absempere",
+  "updated_at": "2024-10-17T18:08:18.519Z",
+  "updated_by": "absempere"
+}
