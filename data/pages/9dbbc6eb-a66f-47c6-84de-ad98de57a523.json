@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-17T18:14:02.823Z",
+  "created_by": "absempere",
+  "title": "The Lonely Villa Film",
+  "slug": "the-lonely-villa-fil",
+  "updated_at": "2024-10-17T18:14:02.823Z",
+  "updated_by": "absempere",
+  "parent": "1539bd87-6dbc-45ee-a2cf-eac9f2c73eca",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "a66fdc61-dfd3-42ed-a1f1-eb4fe3e4aced"
+  }
+}
